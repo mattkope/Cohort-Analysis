@@ -2,19 +2,21 @@
 
 ## Cohort Analysis using SQL and Tableau Visualization
 
-The purpose of this project is to simulate what it would be like as a data analyst for a online retail company. The task that the company has given the employee is to create a cohort analysis from the companies dataset. The employee must first import, and clean the data. Then he must create a cohort group, cohort index, and retention table. The findings must then be pushed and communicated with Tableau. Here are the main components used to create the project:  
+The purpose of this project is to simulate what it would be like as a data analyst for a online retail company. The task that the company has given the employee is to create a cohort analysis from the companies dataset. The employee must first import, and clean the data in SQL. Then he must create a cohort group, cohort index, and retention table in SQL. The findings must then be pushed and communicated with Tableau. Here are the main components used to create the project:  
 
 - [UC Irvine's Online Retail Data Set](https://archive.ics.uci.edu/dataset/352/online+retail)
 - Knowledge of the SQL language
 - Microsoft SQL Server 2022
 - Tableau Public 
+
 ## Here is a Photo of the Finished Tableau Dashboard
-![[Pasted image 20240309155402.png]]
+![Screenshot 2024-03-09 155359](https://github.com/mattkope/Cohort-Analysis/assets/133834623/cd2a5c2f-b040-4fbf-8177-d17b8cf1c6ba)
 [Click here to view the dashboard in Tableau Public](https://public.tableau.com/app/profile/matt.kope/viz/CustomerRetentionDashboard_17030972221780/CohortRenentionDashboard)
 
 ## Why Cohort Analysis?
 
 A cohort analysis is identifying the patterns of a given customer base. There are time-based cohorts, size-based cohorts, and segment-based cohorts. The one done in this project was a time-based cohort. We are looking at the time a group of people purchased something on the website. We then look at their behavior after this activity. 
+
 ## Project Instructions
 
 1. Importing the data - Import the [UC Irvine Data](https://archive.ics.uci.edu/dataset/352/online+retail) into Microsoft Server 2022, make sure that all of the columns have the correct data type. Open a new sheet, and follow along with the cohort_analys.sql file by typing the following command into your terminal: `git clone https://github.com/mattkope/Cohort-Analysis.git`
