@@ -28,4 +28,4 @@ A cohort analysis is identifying the patterns of a given customer base. There ar
 
 ## Interpretation of Dashboard to Stakeholders
 
-The following tables indicate the behavior of a customer once they make an initial purchase from the online retail company. For instance, there were 885 new customers that purchased something. After a month, only 324 of those customers bought from the online store again. This means there was a 37% retention rate for that month. This means there was a 37% retention rate for that month. This was the behavior for the timeframe 2010-12-01 to 2011-1-01.
+The following tables indicate the behavior of a customer once they make an initial purchase from the online retail company. For instance, there were 885 new customers that purchased something. After a month, only 324 of those customers bought from the online store again. This means there was a 37% retention rate for that month. This was the behavior for the timeframe 2010-12-01 to 2011-1-01.
